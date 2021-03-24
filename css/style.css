@@ -1,0 +1,32 @@
+body{
+    font: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar{
+    background-color: black;
+    
+}
+
+.navbar-brand{
+    padding-left: 32px;
+}
+
+.kanye-west{
+    background-color: #CFC6C4;
+    color: black;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.albuns{
+    background-color: #648BDA;    
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
