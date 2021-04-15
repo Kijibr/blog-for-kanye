@@ -1,3 +1,3 @@
 # blog-for-kanye
 
-Praticando conceitos do HTML e CSS em um blog sobre Kanye West.
+Praticando conceitos do HTML, CSS e JS em um blog sobre Kanye West.
